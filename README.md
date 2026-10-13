@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+<!--
 Like the Rise of Ziggy Stardust, I translate two decades of experience in classic programming into the language of the new GenAI era. The Paulo Codero stage is a transitional state, where years of knowledge and wisdom sound like the simple truths of Paulo Coelho, ultimately leading me to my goal–becoming Ziggy Codedust, where the code itself becomes just a backdrop for a greater idea.
 
-<!--
+
 **lukekas83/lukekas83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
